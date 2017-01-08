@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow (right)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-758.000000, -2607.000000)" fill="#111B28">
+            <g id="Donation" transform="translate(0.000000, 2275.000000)">
+                <g id="Button" transform="translate(636.000000, 324.000000)">
+                    <polygon id="Arrow-(right)" points="131 26 127.625 22.625 131 19.25 122 19.25 122 14.75 131 14.75 127.625 11.375 131 8 140 17"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
